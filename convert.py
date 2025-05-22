@@ -5,7 +5,7 @@ def btc_to_idr(jumlah_btc, harga_per_btc_usd, kurs_usd_to_idr):
 
 # Contoh penggunaan:
 jumlah_btc = 0.01065625	
-harga_per_btc_usd = 1100000
+harga_per_btc_usd = 210000
 kurs_usd_to_idr = 17000
 
 rupiah = btc_to_idr(jumlah_btc, harga_per_btc_usd, kurs_usd_to_idr)
